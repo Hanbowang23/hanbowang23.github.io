@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, University of California, Los Angeles (UCLA), 2021
+* M.S. in Finance, University of California, San Diego (UCSD), 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2023.04 - 2023.09: Research Assistant
+  * University of California, San Diego
+  * Duties included: Independent research on various topics
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
@@ -29,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Data Analysis, Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
