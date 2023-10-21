@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanbo's Homepage"
+title                    : "Hanbo Wang"
 title_separator          : "-"
 name                     : &name "Hanbo Wang"
 description              : &description "Master of Finance student at University of California, San Diego"
 url                      : https://hanbowang23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Hanbowang23/hanbowang23.github.io"
+repository               : "Hanbowang23/hanbowang23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
